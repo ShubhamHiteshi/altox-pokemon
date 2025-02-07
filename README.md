@@ -1,6 +1,5 @@
 Here's a `README.md` file template for your project setup:
 
-```markdown
 # Project Name
 
 This project consists of a frontend React app and a backend Node.js app. Below are the steps to set up and run the project.
@@ -16,7 +15,6 @@ Make sure you have the following tools installed:
 
 - [Node.js](https://nodejs.org/en/download/) (v14 or above)
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/) (for dependency management)
-```
 
 ## Setup and Installation
 
